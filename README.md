@@ -1,5 +1,8 @@
-# ngaleekindex
+# NGALeekIndex
 
-1. Login forum in your browser.
-2. Check cookies of your brower, copy the value of `ngaPassportCid` and `ngaPassportUid` on domain `nga.cn`.
-3. Paste into `post.cpp` line #20, #21 respectively.
+C++ implementation of NGA Leek Index (NGA 论坛韭指数)
+
+# Usage
+ - Login forum in your browser.
+ - Check cookies of your brower, copy the value of `ngaPassportCid` and `ngaPassportUid` on domain `nga.cn`.
+ - Paste into `post.cpp` line #20, #21 respectively.
